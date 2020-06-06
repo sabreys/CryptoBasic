@@ -1,6 +1,6 @@
 # CryptoBasic
 
- Hi! This is **CryptoBasic** and it was my  first Java project. You can Decrypt/Encrpy your **Files** and **Folders** with AES algorithm.
+ Hi! This is **CryptoBasic** and it was my  first Java project. You can Decrypt/Encrypt your **Files** and **Folders** with AES algorithm.
  
 İf you are just looking for an AES code, you can use **CryptBasic** package. Usage instruction is down below.
   
@@ -32,4 +32,4 @@ This  Packages include AES decrypt/encrpyt codes.You can use directly this class
 
 ## Encryption For Folders
 
-**KriptoGui.crypter** function  can detect file and folders. If folder selected, it will encrpyt all files in this folder.You Can convert this function for your usage.Just add File,Key and Choice(true:encrpyt/false:decrypt) as a parameter.
+**KriptoGui.crypter** function  can detect file and folders. If folder selected, it will encrpyt all files in this folder.You can convert this function for your usage.Just add File,Key and Choice(true:encrpyt/false:decrypt) as a parameter.
